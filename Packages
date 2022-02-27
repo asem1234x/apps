@@ -1,3 +1,21 @@
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3~release
+Section: Addons (Apps Manager)
+Maintainer: ProtonFile <protonfile@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs//jp.soh.reprovision_0.8.3_release_iphoneos-arm.deb
+Size: 15477448
+MD5sum: 5d2f02d9c86ca591ef2f4fff2d50fc2f
+SHA1: 5032d1e2aaa89610e0822c1c4e6bd9d6482e8350
+SHA256: faec78fbe60c77ac2b2a0655af0035e5394a3f82d388fc50ee8a12451e4848f5
+Homepage: https://neutronfile.org/
+Description: Show All Apps in utilities Apps Manager
+Name: Show All Apps
+Author: NeutronFile
+Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
+
 Package: com.protonfile.ShowAllApps
 Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
@@ -10,7 +28,6 @@ Size: 4754
 MD5sum: b18fd30c087e1bc97f05a7aa45373670
 SHA1: 28de199f24bad0dd76bd8fd5192138b703fa13a4
 SHA256: 5fef2af30f99e912d6c10f668a7ced873c7cd12fc986b1443aeb92c7ade2e800
-SHA512: 20dc236fc6ad4ced3b2c9991dfe23ebb1c649563d2a96b25e9e111a4a7e7e393a173a8fd0b9b135fdec00e68414db85d5049c508c37730e3693e66e505dd04b8
 Homepage: https://neutronfile.org/
 Description: Show All Apps in utilities Apps Manager
 Name: Show All Apps
