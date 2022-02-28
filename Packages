@@ -11,10 +11,10 @@ MD5sum: 5d2f02d9c86ca591ef2f4fff2d50fc2f
 SHA1: 5032d1e2aaa89610e0822c1c4e6bd9d6482e8350
 SHA256: faec78fbe60c77ac2b2a0655af0035e5394a3f82d388fc50ee8a12451e4848f5
 Homepage: https://neutronfile.org/
-Description: Show All Apps in utilities Apps Manager
+Description: reprovision in utilities Apps Manager
 Name: reprovision
 Author: NeutronFile
-Depiction: https://ProtonFile.github.io/depic/ShowAllApps.html
+Depiction: https://asem1234x.github.io/apps/depic/ShowAllApps.html
 
 Package: com.protonfile.jbzcarrier
 Architecture: iphoneos-arm
